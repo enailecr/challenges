@@ -2,6 +2,7 @@
 Trying to improve code for better performance
 
 1. Build a string
+
 Greg wants to build a string,S of length N. Starting with an empty string, he can perform 2 operations:
 
 -> Add a character to the end of S for A dollars.
